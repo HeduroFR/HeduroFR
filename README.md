@@ -26,6 +26,6 @@
 
 #### If you want to get in touch
 
-- Pro Email: contact@kizuru.dev
+- Pro Email: contact@yantox.fr
 - Discord:  Melvyn#2256
 - Snapchat: meelvyynn
