@@ -1,11 +1,11 @@
-## It's a rainbow! It's a firework! Wait no it's just Kizuru...
+## It's a rainbow! It's a firework! Wait no it's just YantoX...
 
 #### Wait but who's this Kizuru guy?
 
-- 🍣 A sushi lover
-- 💻 A powerful developper (probably)
+- 🍣 A sushi (non)lover
+- 💻 A powerful developper (probably...no...certainly)
 - 📘 A french high school student
-- 🤵🏻 A guy. (Gay guy to be precise)
+- 🤵🏻 A guy. (Tronçonneuse 45CC)
 
 #### What kind of experience does he have?
 
@@ -27,5 +27,5 @@
 #### If you want to get in touch
 
 - Pro Email: contact@kizuru.dev
-- Discord: Kizuru#5720
-- Snapchat: kuronobakaw
+- Discord:  Melvyn#2256
+- Snapchat: meelvyynn
