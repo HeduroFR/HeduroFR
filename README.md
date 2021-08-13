@@ -1,6 +1,6 @@
 ## It's a rainbow! It's a firework! Wait no it's just YantoX...
 
-#### Wait but who's this Kizuru guy?
+#### Wait but who's this Heduro guy?
 
 - 🍣 A sushi (non)lover
 - 💻 A powerful developper (probably...no...certainly)
@@ -26,6 +26,6 @@
 
 #### If you want to get in touch
 
-- Pro Email: contact@yantox.fr
-- Discord:  Melvyn#2256
+- Pro Email: contact@heduro.fr
+- Discord:  Heduro#8292
 - Snapchat: meelvyynn
