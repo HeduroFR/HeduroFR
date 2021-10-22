@@ -1,28 +1,25 @@
-## It's a rainbow! It's a firework! Wait no it's just YantoX...
+## It's a rainbow! It's a firework! Wait no it's just Heduro...
 
 #### Wait but who's this Heduro guy?
 
-- 🍣 A sushi (non)lover
 - 💻 A powerful developper (probably...no...certainly)
 - 📘 A french high school student
-- 🤵🏻 A guy. (Tronçonneuse 45CC)
+- 🤵🏻 A guy.
 
 #### What kind of experience does he have?
 
-- 🌱 Around 4 years of NodeJS, some experience with TypeScript as well.
+- 🌱 Around 3 years of NodeJS
 - ✨ Some experience with Java
-- 🎈 A very tiny bit of python
-- 🔨 Learning Rust, Go and C++
 - 💾 Experience with linux (Only Arch/Debian-based distros)
-- 🐳 Basic docker (+compose) experience
-- ⚡ Database knowledge (NoSQL: MongoDB, RethinkDB | SQL: MySQL, MariaDB)
+- 🐳 Basic docker experience
+- ⚡ Database knowledge (NoSQL: MongoDB)
 
 #### What's on his TODO list?
 
 - 👥 Acquire experience with other people (learn to work in a team)
 - 💻 Learn more programming languages and master the ones I like
 - 💼 Get into a good post-BAC school
-- 🛠 Learn Kubernetes and other useful tools
+- 🛠 Create my own company
 
 #### If you want to get in touch
 
