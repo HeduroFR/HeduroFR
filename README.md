@@ -24,5 +24,5 @@
 #### If you want to get in touch
 
 - Pro Email: contact@heduro.fr
-- Discord:  Heduro#8292 | [Discord](https://discord.gg/6J4CXjsCXm)
+- Discord:  Heduro#1312 | [Discord](https://discord.gg/X5KkfAf8qj)
 - Snapchat: meelvyynn
