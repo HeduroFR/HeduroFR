@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Let's Inc  
   
 
-- 🌱 I’m currently learning React.JS  
+- 🌱 I’m currently learning TypeScript  
   
 
 - ⚡ Enjoy !  
