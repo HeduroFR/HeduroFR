@@ -6,7 +6,7 @@
 ### <div align="center">I'm Heduro, a backend freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
   
 
-- 🔭 I’m currently working on Let's Inc  
+- 🔭 I’m currently working on Logik.Dev 
   
 
 - 🌱 I’m currently learning TypeScript  
