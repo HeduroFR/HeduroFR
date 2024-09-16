@@ -70,11 +70,6 @@
 
   
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gueroult.melvyn&cover_image=true&theme=default" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hedurofr&&style=flat-square" align="center" />
